@@ -1,0 +1,15 @@
+{
+    "env": {
+        "dev": {
+          "db": "http://user:pass@localhost:5984/testapp"
+        }
+        ,
+        "stage": {
+          "db": "http://user:pass@localhost:5984/testapp"
+        }
+        ,
+        "prod": {
+          "db": "http://user:pass@localhost:5984/testapp"
+        }
+      }
+}
